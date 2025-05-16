@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on taxy<br>🌱 I’m currently learning GTK and mastering C++ and js<br>💬 Ask me anything about linux<br>⚡ Fun fact: I'm coding since 8
+🔭 I’m currently working on taxy and groundrim.<br>🌱 I’m currently learning GTK and mastering C++ and js<br>💬 Ask me anything about linux<br>⚡ Fun fact: I'm coding since 8
 
 
 ## 🌐 Socials:
